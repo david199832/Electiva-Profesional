@@ -1,5 +1,5 @@
 # Electiva-Profesional
 Talleres del semestre
  
- Alejandro GArcia Olarte
+ Alejandro Garcia Olarte \n
  david salamanca 
